@@ -57,7 +57,3 @@ Also ich habe bei der Migros eigentlich in so Richtung Berufsbildung gehen wolle
 **Haben Sie vielleicht Tipps für Profispieler, die jetzt am Ende ihrer Karriere sind, oder in einer ähnlichen Situation sind wie Sie waren?** 
 
  Ich glaube es ist sehr individuell. Es ist so, jeder hat ein bisschen seinen eigenen Weg. Ich glaube es gibt sicher ein paar, wo du sagst du musst so oder so Planen du musst einfach wissen, wann willst du aufhören. Vielleicht vorgängig planen, obwohl das auch nicht immer möglich ist, weil plötzlich hast  du eine Verletzung oder hast keinen Vertrag mehr und kannst nicht mehr weiterspielen. Also zurück kannst du nicht mehr, wenn es einmal vorbei ist, ist vorbei. Ich glaube das muss dir klar sein, dass es endgültig vorbei ist. Und vollzeitig planen.
-
-![]()
-
-![]()
