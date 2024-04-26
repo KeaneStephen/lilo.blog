@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+## Stephen Keane
 
-mail@example.org
-
-Here should be some info about me...
+stephen.keane@stud.muristalden.ch
