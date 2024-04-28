@@ -1,10 +1,10 @@
 +++
 title = "About me"
 draft = false
-image = "/img/default-author.jpg"
+image = "mountain-pic-2.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](mountain-pic-2.jpg)
 
 ## Stephen Keane
 
