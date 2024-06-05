@@ -8,7 +8,7 @@ footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden 
 +++
 {{<lead>}}
 
-Ein Blick in das Leben eines Profifussballes nach der Karriereende.
+**Ein Blick in das Leben eines Profifussballes nach der Karriereende.**
 
 {{</lead>}}
 
