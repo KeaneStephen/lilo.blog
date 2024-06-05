@@ -6,6 +6,8 @@ pinned = true
 image = "yb-stadium-pic1.jpg"
 footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden AG in Bern und besucht das zweite Jahr Gymnasium und interessiert sich für jede Form von Sport."
 +++
+![Christian Schneuwly auf dem Feld im YB Stadion]()
+
 ![Christian Schneuwly auf dem Feld im YB Stadion](yb-stadium-pic2.jpg)
 
 {{<lead>}}
