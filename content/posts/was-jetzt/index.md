@@ -12,7 +12,7 @@ footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden 
 
 {{</lead>}}
 
-![Christian Schneuwly auf dem Feld im YB Stadion](yb-stadium-pic2.jpg)
+![Christian Schneuwly auf dem Feld im YB Stadion](yb-stadion-pic1-2-.jpg)
 
 {{<box>}}
 
