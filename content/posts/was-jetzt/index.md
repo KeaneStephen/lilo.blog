@@ -3,7 +3,7 @@ title = "Was jetzt?"
 date = "2024-03-22"
 draft = false
 pinned = true
-image = "yb-stadium-pic1.jpg"
+image = "yb-stadion-pic1-2-.jpg"
 footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden AG in Bern und besucht das zweite Jahr Gymnasium und interessiert sich für jede Form von Sport."
 +++
 {{<lead>}}
