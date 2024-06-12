@@ -3,8 +3,10 @@ title = "Das Leben nach den Spitzensport"
 date = "2024-06-11"
 draft = false
 pinned = true
-tags = ["Fussball", ""]
+tags = ["Fussball"]
+image = "football-pic.jpg"
 description = "Die Welt des Spitzensports ist brutal. Fussball ist eines der besten Beispiele. Nur wenige schaffen es, bei den grossen Vereinen zu spielen, und das Zeitfenster ist klein. Mit etwa 35 Jahren gilt ein Spieler als alt oder nicht mehr so gut wie früher. Da so viele junge Menschen diesen Traum verfolgen, stellt sich die Frage: Was kommt nach dem Fußball?"
+footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden AG in Bern und besucht das zweite Jahr Gymnasium und interessiert sich für jede Form von Sport."
 +++
 {{<lead>}}
 
