@@ -1,7 +1,7 @@
 +++
 title = "Das Leben nach den Spitzensport"
 date = "2024-06-11"
-draft = false
+draft = true
 pinned = true
 tags = ["Fussball"]
 image = "football-pic.jpg"
