@@ -1,6 +1,6 @@
 +++
 title = "Das Leben nach den Spitzensport"
-date = "2024-06-11"
+date = "2024-06-10"
 draft = true
 pinned = true
 tags = ["Fussball"]
