@@ -3,6 +3,7 @@ title = "Routine"
 date = "2024-06-09"
 draft = false
 pinned = false
+tags = ["Poetryslam", "Gedicht"]
 image = "people-pic.jpg"
 description = "Ein Gedicht über die Routine und ihre Bedeutung"
 +++
