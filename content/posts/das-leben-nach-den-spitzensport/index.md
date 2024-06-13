@@ -1,7 +1,7 @@
 +++
 title = "Das Leben nach den Spitzensport"
 date = "2024-06-10"
-draft = false
+draft = true
 pinned = true
 tags = ["Fussball"]
 image = "football-pic.jpg"
@@ -38,6 +38,20 @@ Auch die Unterstützung der Heimfans spielt eine entscheidende Rolle bestätigt 
 
 
 
+#### Aufhören
+
+Das Welt der Spitzensport ist brutal
+
+> Jeder hat ein bisschen sein eigener Weg
+
+
+
+
+
+
+
+#### Trainer sein
+
 Die meisten Spieler werden nach ihrer Karriere zu Trainern bei diversen Clubs. Im Fall von Christian wollte er immer noch eine Verbindung zum Sport und als Trainer einer Mannschaft könnte er weiterhin den Kick miterleben. Laut ihm gibt es auch kein Ersatzprodukt für den Adrenaline Rush, den man bekommt.
 
-Viele ehemalige Spieler finden im Trainerdasein eine neue Beruf, die ihnen ermöglicht, ihre Leidenschaft für den Fußball weiter auszuleben. Als Trainer können sie ihre Erfahrungen und ihr Wissen einfacher an die nächste Generation weitergeben da sie ein Verständnis haben für die jungen Spieler die aufsteigen. "Es ist glaubhafter wenn du selber eine Karriere hattest und die Jungen glauben dich mehr" sagte Christian
+Viele ehemalige Spieler finden im Trainerdasein eine neue Beruf, die ihnen ermöglicht, ihre Leidenschaft für den Fußball weiter auszuleben. Als Trainer können sie ihre Erfahrungen und ihr Wissen einfacher an die nächste Generation weitergeben da sie ein Verständnis haben für die jungen Spieler die aufsteigen. "Es ist glaubhafter wenn du selber eine Karriere hattest und die Jungen glauben dich mehr" sagte Christian.
