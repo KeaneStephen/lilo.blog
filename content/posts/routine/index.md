@@ -22,6 +22,10 @@ Jeden Tag dasselbe, ich geh mit.
 
 
 
+
+
+
+
 Die Straßen füllen sich, der Takt ist gleich,
 
 
@@ -32,6 +36,10 @@ Im Büro ein Gruß, der Bildschirm strahlt,
 
 
 Die Routine führt, was keiner ahnt.
+
+
+
+
 
 
 
@@ -52,6 +60,10 @@ Ein Tag wie jeder, fest gefasst.
 
 
 
+
+
+
+
 Zurück nach Hause, müde sein,
 
 
@@ -62,6 +74,10 @@ Der Fernseher flimmert, die Zeit verfliegt,
 
 
 In der Stille des Abends, das Herz sich biegt.
+
+
+
+
 
 
 
@@ -82,6 +98,10 @@ Kleine Momente tragen fort.
 
 
 
+
+
+
+
 Der Wecker klingelt, ein neuer Tag beginnt,
 
 
@@ -97,6 +117,10 @@ Doch jeder Moment, der leise lacht.
 
 
 
+
+
+
+
 Die Routine läuft, Tag für Tag,
 
 
@@ -107,6 +131,10 @@ Ein Lächeln, ein Gruß, ein kleines Wort,
 
 
 Routine ist unser stiller Ort.
+
+
+
+
 
 
 
