@@ -1,11 +1,11 @@
 +++
 title = "Das Leben nach den Spitzensport"
 date = "2024-06-10"
-draft = true
+draft = false
 pinned = true
 tags = ["Fussball"]
 image = "football-pic.jpg"
-description = "Die Welt des Spitzensports ist brutal. Fussball ist eines der besten Beispiele. Nur wenige schaffen es, bei den grossen Vereinen zu spielen, und das Zeitfenster ist klein. Mit etwa 35 Jahren gilt ein Spieler als alt oder nicht mehr so gut wie früher. Da so viele junge Menschen diesen Traum verfolgen, stellt sich die Frage: Was kommt nach dem Fußball?"
+description = "Die Welt des Spitzensports ist brutal. Fussball ist eines der besten Beispiele. Nur wenige schaffen es, bei den grossen Vereinen zu spielen, und das Zeitfenster ist klein. Mit etwa 35 Jahren gilt ein Spieler \"als\" alt oder \"nicht mehr so gut wie früher\". Da so viele junge Menschen diesen Traum verfolgen, stellt sich die Frage: Was kommt nach dem Fußball?"
 footnotes = "Stephen Keane ist ein 16-jähriger Schüler der Campus Muristalden AG in Bern und besucht das zweite Jahr Gymnasium und interessiert sich für jede Form von Sport."
 +++
 {{<lead>}}
@@ -28,30 +28,34 @@ Am Freitagnachmittag ist im Wankdorf nicht viel los. Es ist ruhig, auf den lange
 
 #### Die Verbindung zum Fussball
 
-Das Leistungssport liefert immer wieder unglaubliche Momente, egal welchem Team du folgst. Im Fußball erleben wir besonders eindrucksvolle Augenblicke, die für immer in Erinnerung bleiben. Für die Spieler muss es auch noch besonders sein. Manchmal treten sie gegen die größten Mannschaften an und können die besten Spieler der Welt erleben. Auch erleben sie immer wieder eine unfassbare Atmosphäre, wenn sie in ihren Heimstadion spielen.
+Der Wettkampfsport bietet immer wieder unglaubliche Momente, egal welches Team man verfolgt. Im Fußball erleben wir besonders eindrucksvolle Momente, die für immer in Erinnerung bleiben. Auch für die Spieler muss es etwas Besonderes sein. Manchmal treten sie gegen die größten Mannschaften an und können die besten Spieler der Welt erleben. Und immer wieder erleben sie eine unglaubliche Atmosphäre, wenn sie in ihrem Heimstadion spielen.
 
-"Ich durfte in Anfield ein Europa-League-Spiel gegen Liverpool spielen", sagt Christian aufgeregt. "Das war sicher eines der größten Highlights meiner Karriere." Diese Erfahrung, in einem der ikonischsten Stadien der Welt zu spielen, ist für viele Fußballer ein Traum. Die Anfield Road, bekannt für ihre elektrisierende Stimmung und die leidenschaftlichen Fans, schafft eine Kulisse, die sowohl einschüchternd als auch inspirierend sein kann. Für Spieler bedeutet es, auf solch großen Bühnen aufzutreten, nicht nur eine Herausforderung, sondern auch eine Gelegenheit, sich zu beweisen.
+"Ich durfte in der Europa League in Anfield gegen Liverpool spielen", erzählt Christian begeistert. "Das war sicher eines der größten Highlights meiner Karriere." Die Erfahrung, in einem der berühmtesten Stadien der Welt zu spielen, ist für viele Fußballer ein Traum. Die Anfield Road ist für ihre elektrisierende Atmosphäre und ihre leidenschaftlichen Fans bekannt und bietet eine Kulisse, die sowohl einschüchternd als auch inspirierend sein kann. Für die Spieler ist es nicht nur eine Herausforderung, sondern auch eine Chance, sich auf einer so großen Bühne zu beweisen.
 
-> Der Adrenalin bei einem Goal oder einen Sieg ist natürlich schon genial
+> Der Adrenalinschub nach einem Tor oder Sieg ist natürlich großartig.
 
-Auch die Unterstützung der Heimfans spielt eine entscheidende Rolle bestätigt Christian. Die Atmosphäre im Stadion kann die Spieler zu Höchstleistungen antreiben. Die Gesänge, das Jubeln und die unerschütterliche Unterstützung der Fans sind oft der zusätzliche Antrieb, der benötigt wird, um schwierige Spiele zu gewinnen. Spieler wie Christian erleben diese Stimme als einer der Höhepunkte ihrer Karriere, die sie nie vergessen werden
+Auch die Unterstützung der Heimfans spielt eine entscheidende Rolle, bestätigt Christian. Die Atmosphäre im Stadion kann die Spieler zu Höchstleistungen anspornen. Die Sprechchöre, der Jubel und die unerschütterliche Unterstützung der Fans sind oft der zusätzliche Antrieb, um schwierige Spiele zu gewinnen. Für Spieler wie Christian ist es einer der Höhepunkte ihrer Karriere, den sie nie vergessen werden.
 
 
 
 #### Aufhören
 
-Das Welt der Spitzensport ist brutal
+Die Welt des Spitzensports ist brutal, und gerade im Fußball hält man sich meist nicht lange an der Spitze. Die Konkurrenz ist groß und der Druck, ständig Höchstleistungen zu erbringen, enorm. Nur wenigen Spielern und Mannschaften gelingt es, sich über einen längeren Zeitraum an der Spitze zu halten.
 
-> Jeder hat ein bisschen sein eigener Weg
+Meist steht die Familie im Mittelpunkt, wenn es um Entscheidungen geht. Als er aufhörte, ging Christians Sohn zum ersten Mal in den Kindergarten. Für ihn spielte bei der Entscheidung vieles eine Rolle. Der Spagat zwischen Karriere und Familie ist für viele Spitzensportler eine Herausforderung. Für Christian stand die Familie an erster Stelle.
 
+Nach seinem Rücktritt hatte er nicht unbedingt eine andere Routine. Er wusste nur, dass er weg wollte vom Fußball. Er hatte genug von dem ganzen Business und wollte etwas anderes ausprobieren, andere Möglichkeiten sehen. Er nahm sich bewusst Zeit und wollte sich alle Möglichkeiten offen halten. Nach einem Selbstcoaching entschied er sich schliesslich, bei der Migros im HR-Bereich einzusteigen. Obwohl er nicht gerne im Büro arbeitet, hatte er eine gute Zeit. Anderen Spielern würde er heute raten, so früh wie möglich zu planen, um nicht ins kalte Wasser geworfen zu werden.
 
-
-
-
-
+> Jeder hat seinen eigenen Weg.
 
 #### Trainer sein
 
 Die meisten Spieler werden nach ihrer Karriere zu Trainern bei diversen Clubs. Im Fall von Christian wollte er immer noch eine Verbindung zum Sport und als Trainer einer Mannschaft könnte er weiterhin den Kick miterleben. Laut ihm gibt es auch kein Ersatzprodukt für den Adrenaline Rush, den man bekommt.
 
 Viele ehemalige Spieler finden im Trainerdasein eine neue Beruf, die ihnen ermöglicht, ihre Leidenschaft für den Fußball weiter auszuleben. Als Trainer können sie ihre Erfahrungen und ihr Wissen einfacher an die nächste Generation weitergeben da sie ein Verständnis haben für die jungen Spieler die aufsteigen. "Es ist glaubhafter wenn du selber eine Karriere hattest und die Jungen glauben dich mehr" sagte Christian.
+
+
+
+> Ich hätte mir nichts anderes gewünscht. 
+>
+> Für mich ist Fussball der Traumjob gewesen
