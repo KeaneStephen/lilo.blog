@@ -8,6 +8,8 @@ image = "people-pic.jpg"
 description = "Ein Gedicht über die Routine und ihre Bedeutung"
 +++
 Der Wecker klingelt, ein neuer Tag beginnt,
+
+
 Der Kaffee duftet, der Morgenwind.
 Auf zur Arbeit, Schritt für Schritt,
 Jeden Tag dasselbe, ich geh mit.
